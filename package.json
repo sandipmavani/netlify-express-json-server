@@ -4,7 +4,7 @@
   "description": "Example of how to deploy a json-server Netlify app.",
   "main": "functions/server.js",
   "scripts": {
-    "build": "netlify-lambda build express",
+    "build": "netlify-lambda build json-server",
     "start": "node server-local.js"
   },
   "repository": {
