@@ -22,7 +22,7 @@
   },
   "homepage": "https://github.com/sandipmavani/netlify-express-json-server#readme",
   "dependencies": {
-    "json-server": "sandipmavani/json-server",
+    "json-server": "^0.14.2",
     "path": "^0.12.7"
   },
   "devDependencies": {
