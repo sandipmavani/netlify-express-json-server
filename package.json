@@ -28,7 +28,7 @@
   "devDependencies": {
     "body-parser": "^1.18.3",
     "express": "^4.16.4",
-    "netlify-lambda": "^0.4.0",
+    "netlify-lambda": "^2.0.15",
     "serverless-http": "^1.10.1"
   }
 }
